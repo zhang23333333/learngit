@@ -1,4 +1,3 @@
-from operator import getitem
 
 
 认真学习git
