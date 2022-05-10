@@ -3,3 +3,5 @@ from operator import getitem
 
 认真学习git
 才能在简历上写上了解get
+aaa什么鬼
+几岁就是
